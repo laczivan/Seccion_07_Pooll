@@ -48,8 +48,8 @@ public class Vehicles {
 
     @Override
     public String toString() {
-        return "The vehicle is manufactured by: " + MAKE + "\n" +
-               "The model type is " + model + "\n" +
+        return "The vehicle is manufactured by: " + MAKE +
+               "The model type is " + model +
                "The chassis number is " + chassisNo;
     }
 
